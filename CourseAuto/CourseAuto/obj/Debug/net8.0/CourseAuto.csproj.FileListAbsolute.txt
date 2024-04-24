@@ -1,0 +1,14 @@
+/Users/Kevlar/Documents/Documents - Mac/C#/CourseAutomobile/CourseAuto/CourseAuto/bin/Debug/net8.0/CourseAuto
+/Users/Kevlar/Documents/Documents - Mac/C#/CourseAutomobile/CourseAuto/CourseAuto/bin/Debug/net8.0/CourseAuto.deps.json
+/Users/Kevlar/Documents/Documents - Mac/C#/CourseAutomobile/CourseAuto/CourseAuto/bin/Debug/net8.0/CourseAuto.runtimeconfig.json
+/Users/Kevlar/Documents/Documents - Mac/C#/CourseAutomobile/CourseAuto/CourseAuto/bin/Debug/net8.0/CourseAuto.dll
+/Users/Kevlar/Documents/Documents - Mac/C#/CourseAutomobile/CourseAuto/CourseAuto/bin/Debug/net8.0/CourseAuto.pdb
+/Users/Kevlar/Documents/Documents - Mac/C#/CourseAutomobile/CourseAuto/CourseAuto/obj/Debug/net8.0/CourseAuto.GeneratedMSBuildEditorConfig.editorconfig
+/Users/Kevlar/Documents/Documents - Mac/C#/CourseAutomobile/CourseAuto/CourseAuto/obj/Debug/net8.0/CourseAuto.AssemblyInfoInputs.cache
+/Users/Kevlar/Documents/Documents - Mac/C#/CourseAutomobile/CourseAuto/CourseAuto/obj/Debug/net8.0/CourseAuto.AssemblyInfo.cs
+/Users/Kevlar/Documents/Documents - Mac/C#/CourseAutomobile/CourseAuto/CourseAuto/obj/Debug/net8.0/CourseAuto.csproj.CoreCompileInputs.cache
+/Users/Kevlar/Documents/Documents - Mac/C#/CourseAutomobile/CourseAuto/CourseAuto/obj/Debug/net8.0/CourseAuto.dll
+/Users/Kevlar/Documents/Documents - Mac/C#/CourseAutomobile/CourseAuto/CourseAuto/obj/Debug/net8.0/refint/CourseAuto.dll
+/Users/Kevlar/Documents/Documents - Mac/C#/CourseAutomobile/CourseAuto/CourseAuto/obj/Debug/net8.0/CourseAuto.pdb
+/Users/Kevlar/Documents/Documents - Mac/C#/CourseAutomobile/CourseAuto/CourseAuto/obj/Debug/net8.0/CourseAuto.genruntimeconfig.cache
+/Users/Kevlar/Documents/Documents - Mac/C#/CourseAutomobile/CourseAuto/CourseAuto/obj/Debug/net8.0/ref/CourseAuto.dll
