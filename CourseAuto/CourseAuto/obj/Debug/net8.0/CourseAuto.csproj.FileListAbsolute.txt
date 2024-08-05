@@ -12,3 +12,4 @@
 /Users/Kevlar/Documents/Documents - Mac/C#/CourseAutomobile/CourseAuto/CourseAuto/obj/Debug/net8.0/CourseAuto.pdb
 /Users/Kevlar/Documents/Documents - Mac/C#/CourseAutomobile/CourseAuto/CourseAuto/obj/Debug/net8.0/CourseAuto.genruntimeconfig.cache
 /Users/Kevlar/Documents/Documents - Mac/C#/CourseAutomobile/CourseAuto/CourseAuto/obj/Debug/net8.0/ref/CourseAuto.dll
+/Users/Kevlar/Documents/Documents - Mac/C#/CourseAutomobile/CourseAuto/CourseAuto/obj/Debug/net8.0/CourseAuto.sourcelink.json

@@ -1,0 +1,5 @@
+/Users/Kevlar/Documents/Documents - Mac/C#/CourseAutomobile/obj/Debug/net8.0/CourseAutomobile.GeneratedMSBuildEditorConfig.editorconfig
+/Users/Kevlar/Documents/Documents - Mac/C#/CourseAutomobile/obj/Debug/net8.0/CourseAutomobile.AssemblyInfoInputs.cache
+/Users/Kevlar/Documents/Documents - Mac/C#/CourseAutomobile/obj/Debug/net8.0/CourseAutomobile.AssemblyInfo.cs
+/Users/Kevlar/Documents/Documents - Mac/C#/CourseAutomobile/obj/Debug/net8.0/CourseAutomobile.csproj.CoreCompileInputs.cache
+/Users/Kevlar/Documents/Documents - Mac/C#/CourseAutomobile/obj/Debug/net8.0/CourseAutomobile.sourcelink.json
